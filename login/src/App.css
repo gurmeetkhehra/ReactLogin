@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.myForm{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.txt{
+  width: 400px;
+
+}
+
+.formButton{
+  width: 300px;
+}
+
